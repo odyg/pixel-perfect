@@ -172,7 +172,7 @@ body {
     padding-right: 14px;
 }
 
-.social-icons a {
+.social-icons div {
     display: inline-block;
     vertical-align: middle;
     background-color: #F9FAFB;
